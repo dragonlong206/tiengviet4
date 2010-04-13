@@ -1,0 +1,293 @@
+<Screen
+	CID = "1510429222"
+	DocID = ""
+	HasCanvas = "1"
+	Width = "640"
+	Height = "480"
+	NextCID = "5"
+	RepresentativeRefID = "0"
+	UseDefRepresentative = "1">
+	<Elements
+		CID = "1">
+		<Element
+			CID = "571764166"
+			Type = "FrameWindow"
+			X = "2"
+			Y = "9"
+			Width = "635"
+			Height = "470"
+			Flags = "0"
+			WindowColour = "172,168,153,0,13"
+			Typeface = ""
+			FontAttributes = "1"
+			TextSize = "Normal"
+			Title = "Chương Trình Học Toán Lớp 6"
+			TitleBarHeight = "18"
+			IconMargin = "0"
+			BorderSize = "1"
+			IsBorderless = "1"
+			IsActive = "1"
+			IsDocWindow = "0"
+			HasSunkenWindow = "1"
+			CentreText = "0"
+			UseMutedColours = "0"
+			Mirror = "0"
+			Buttons = "11"
+			Icon = "DefaultApp"/>
+		<Element
+			CID = "571739513"
+			Type = "TextButton"
+			X = "52"
+			Y = "432"
+			Width = "97"
+			Height = "24"
+			Flags = "0"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "Hồ sơ cá nhân"
+			Depth = "2"
+			IsDefault = "0"
+			IsDisabled = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			AutoNavType = ""/>
+		<Element
+			CID = "571742728"
+			Type = "TextButton"
+			X = "480"
+			Y = "433"
+			Width = "96"
+			Height = "24"
+			Flags = "0"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "Quá trình học tập"
+			Depth = "2"
+			IsDefault = "0"
+			IsDisabled = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			AutoNavType = ""/>
+		<Element
+			CID = "571751513"
+			Type = "StaticText"
+			X = "78"
+			Y = "56"
+			Width = "100"
+			Height = "30"
+			Flags = "0"
+			FillColour = "236,233,216,0,16"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "VeryLarge"
+			Text = "Mục Lục"
+			IsDisabled = "0"
+			Fill = "None"
+			HorzAlign = "Centre"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "571743387"
+			Type = "Tree"
+			X = "27"
+			Y = "93"
+			Width = "247"
+			Height = "323"
+			Flags = "0"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			NextItemID = "12"
+			IsDisabled = "0"
+			HasBorder = "1"
+			HasButtons = "1"
+			HasLines = "1"
+			HasLinesAtRoot = "0"
+			HasHorzScrollBar = "0"
+			HasVertScrollBar = "1"
+			Mirror = "0"
+			WordWrap = "0"
+			IconMargin = "0"
+			ItemHeight = "16"
+			Icons = "Folders">
+			<TreeItem
+				ItemID = "1"
+				Text = "Tiếng Việt 4"
+				IsBold = "1"
+				IsChecked = "0"
+				IsExpanded = "1"
+				IsSelected = "0">
+				<TreeItem
+					ItemID = "2"
+					Text = "Bài Giảng"
+					IsBold = "1"
+					IsChecked = "0"
+					IsExpanded = "1"
+					IsSelected = "0">
+					<TreeItem
+						ItemID = "5"
+						Text = "Bài 1"
+						IsBold = "0"
+						IsChecked = "0"
+						IsExpanded = "0"
+						IsSelected = "0"/>
+					<TreeItem
+						ItemID = "6"
+						Text = "Bài 2"
+						IsBold = "0"
+						IsChecked = "0"
+						IsExpanded = "0"
+						IsSelected = "0"/>
+				</TreeItem>
+				<TreeItem
+					ItemID = "3"
+					Text = "Kiểm Tra Kiến Thức"
+					IsBold = "1"
+					IsChecked = "0"
+					IsExpanded = "1"
+					IsSelected = "0">
+					<TreeItem
+						ItemID = "7"
+						Text = "Bài 1"
+						IsBold = "0"
+						IsChecked = "0"
+						IsExpanded = "0"
+						IsSelected = "0"/>
+					<TreeItem
+						ItemID = "11"
+						Text = "Bài 2"
+						IsBold = "0"
+						IsChecked = "1"
+						IsExpanded = "0"
+						IsSelected = "0"/>
+				</TreeItem>
+				<TreeItem
+					ItemID = "4"
+					Text = "Có Thể Em Chưa Biết"
+					IsBold = "1"
+					IsChecked = "0"
+					IsExpanded = "1"
+					IsSelected = "0">
+					<TreeItem
+						ItemID = "8"
+						Text = "Tục Ngữ"
+						IsBold = "0"
+						IsChecked = "0"
+						IsExpanded = "0"
+						IsSelected = "0"/>
+					<TreeItem
+						ItemID = "9"
+						Text = "Truyện Cổ Tích"
+						IsBold = "0"
+						IsChecked = "0"
+						IsExpanded = "0"
+						IsSelected = "0"/>
+					<TreeItem
+						ItemID = "10"
+						Text = "Truyện Ngụ Ngôn"
+						IsBold = "0"
+						IsChecked = "0"
+						IsExpanded = "0"
+						IsSelected = "0"/>
+				</TreeItem>
+			</TreeItem>
+		</Element>
+		<Element
+			CID = "571738275"
+			Type = "TabPanel"
+			X = "296"
+			Y = "126"
+			Width = "322"
+			Height = "247"
+			Flags = "0"
+			TabOrientation = "Top"
+			MarginLeft = "10"
+			MarginRight = "10"
+			MarginTop = "10"
+			MarginBottom = "10"/>
+		<Element
+			CID = "571750096"
+			Type = "StaticText"
+			X = "392"
+			Y = "94"
+			Width = "100"
+			Height = "21"
+			Flags = "0"
+			FillColour = "236,233,216,0,16"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "140"
+			Text = "Mô Tả"
+			IsDisabled = "0"
+			Fill = "None"
+			HorzAlign = "Centre"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "571755371"
+			Type = "TextButton"
+			X = "332"
+			Y = "389"
+			Width = "106"
+			Height = "23"
+			Flags = "0"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "Bắt đầu"
+			Depth = "2"
+			IsDefault = "0"
+			IsDisabled = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			AutoNavType = ""/>
+		<Element
+			CID = "571739748"
+			Type = "TextButton"
+			X = "478"
+			Y = "388"
+			Width = "103"
+			Height = "25"
+			Flags = "0"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "Kiểm tra kiến thức"
+			Depth = "2"
+			IsDefault = "0"
+			IsDisabled = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			AutoNavType = ""/>
+	</Elements>
+	<Connections
+		CID = "2"/>
+	<SelectionGroups
+		CID = "3"/>
+	<Notes
+		CID = "4">
+		<Note
+			CID = "1510432586"
+			Name = "Description"
+			NextCID = "2">
+			<Text
+				CID = "1">
+				
+			</Text>
+		</Note>
+	</Notes>
+</Screen>
