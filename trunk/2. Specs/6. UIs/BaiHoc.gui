@@ -140,19 +140,6 @@
 			MarginBottom = "0"
 			AutoNavType = ""/>
 		<Element
-			CID = "381290626"
-			Type = "TabPanel"
-			X = "153"
-			Y = "32"
-			Width = "479"
-			Height = "385"
-			Flags = "0"
-			TabOrientation = "Top"
-			MarginLeft = "10"
-			MarginRight = "10"
-			MarginTop = "10"
-			MarginBottom = "10"/>
-		<Element
 			CID = "381305418"
 			Type = "TextButton"
 			X = "28"
@@ -194,6 +181,22 @@
 			MarginTop = "0"
 			MarginBottom = "0"
 			AutoNavType = ""/>
+		<Element
+			CID = "318967390"
+			Type = "WebPage"
+			X = "146"
+			Y = "57"
+			Width = "473"
+			Height = "369"
+			Flags = "0"
+			BackgroundColour = "255,255,255,0,0"
+			BorderColour = "160,160,160,0,0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			BorderWidth = "0"
+			PageHeight = "400"/>
 	</Elements>
 	<Connections
 		CID = "2"/>
